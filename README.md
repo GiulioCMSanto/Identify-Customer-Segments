@@ -7,7 +7,7 @@ The motivation of this project is the ability of working with real world "messie
 ## Files in this Repository
 **README.md**: the present file
 
-*Identify_Customer_Segments.ipynb**: a jupyter notebook with the whole project
+**Identify_Customer_Segments.ipynb**: a jupyter notebook with the whole project
 
 **Identify_Customer_Segments.html**: a HTML version of the jupyter notebook
 
