@@ -15,7 +15,7 @@ The motivation of this project is the ability of working with real world "messie
 Data was cleaned and missing values were evaluated statistically. Feature engineering was performed and categorical data was treated in order to allow one to use a clustering algorithm.
 A k-means unsupervised algorithm was applied as well as a Principle Component Analysis. After tunning, 9 clusters were considered.
 
-Doing a reverse engineer process, the following characteristics were identified in the potential group for the sales company:
+Doing a reverse engineering process, the following characteristics were identified in the potential group for the sales company:
 
 - high FINANZ_HAUSBAUER and FINANZ_SPARER financial typology
 - low FINANZ_MINIMALIST typology
